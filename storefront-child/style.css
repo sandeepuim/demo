@@ -1,0 +1,9 @@
+/*
+ Theme Name:   Storefront Child
+ Template:     storefront
+*/
+
+@import url("../storefront/style.css"); /* optional fallback for older themes */
+.site-header {
+    background-color: #fff;
+}
